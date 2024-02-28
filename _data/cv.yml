@@ -1,0 +1,79 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Jooyoung Cha
+#       # value: Albert Einstein
+#     # - name: Date of Birth
+#       # value: 14th March 1879
+#     - name: Languages
+#       value: English (fluent), Korean (native)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Economics
+      institution: Vanderbilt University, TN, United States
+      year: 2019.08 -
+      description:
+        - Expected graduation in 2025
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: MA in Economics
+      institution: Seoul National University, Seoul, South Korea
+      year: 2019.02
+    - title: BA in Economics and Finance and Economics
+      institution: Ewha Womens University, Seoul, South Korea
+      year: 2016.08
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Econometrics Theory
+      items:
+        - High-dimensional Models
+        - Machine Learning Methods
+        - Causal Inference
+    - title: Applied Econometrics
+      items:
+        - Health Economics
+
+- title: Conferences and Seminars
+  type: time_table
+  contents:
+    - year: 2023
+      description:
+        - 38th CESG Annual Meeting, McMaster University (Poster session)
+        - 1st CIREQ Interdisciplinary PhD Student Conference on Big Data and Artificial Intelligence, McGill University
+        - New York Camp Econometrics XVII (Poster session)
+    - year: 2022
+      description:
+        - 2nd International Econometrics PhD Conference, Erasmus University Rotterdam
+        -  Midwest Econometrics Group 2022 Conference, Michigan State University
+        - Work In Progress Seminar, Vanderbilt University
+        - New York Camp Econometrics XVI (Poster session)
+
+- title: Awards and Scholarships
+  type: nested_list
+  contents:
+    - title: Awards
+      items:
+      - Kirk Dornbush Summer Research Award - Summer 2023
+      - Rendigs Fels Award for Excellence in Undergraduate Teaching - Spring 2023
+      - Dornbush Research Assistantship - Spring 2022
+      - Best Third Year Paper - Spring 2022
+    - title: Scholarships
+      items:
+      - Teaching Assistant Scholarship - Fall 2020 - present
+      # - Brain Korea 21 Plus Scholarship - Fall 2016 - Spring 2018
+      # - Teaching Assistant Scholarship - Fall 2016 - Fall 2018
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: programming
+      items: R, python, stata
+    - title: languages
+      items: English (fluent), Korean (native)
