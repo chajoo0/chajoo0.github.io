@@ -16,7 +16,7 @@ horizontal: false
 <p class="abstract-content hidden">
   Impulse response analysis studies how the economy responds to shocks, such as changes in interest rates, and helps policymakers manage these effects. While Vector Autoregression Models (VARs) with structural assumptions have traditionally dominated the estimation of impulse responses, local projections, the projection of future responses on current shock, have recently gained attention for their robustness and interpretability. Including many lags as controls is proposed as a means of robustness, and including a richer set of controls helps in its interpretation as a causal parameter. In both cases, an extensive number of controls leads to the consideration of high-dimensional techniques. While methods like LASSO exist, they mostly rely on sparsity assumptions - most of the parameters are exactly zero, which has limitations in dense data generation processes. This paper proposes a novel approach that incorporates high-dimensional covariates in local projections without relying on sparsity constraints. Adopting the Orthogonal Greedy Algorithm with a high-dimensional AIC (OGA+HDAIC) model selection method, this approach offers advantages including robustness in both sparse and dense scenarios, improved interpretability by prioritizing cross-sectional explanatory power, and more reliable causal inference in local projections.
 </p>
-<a href="https://drive.google.com/file/d/1zDoOTL6MqoVcN1KEJhjs2qlXNwv6x_vh/view?usp=drive_link">[Most Recent]</a>
+<a href="https://drive.google.com/file/d/1zDoOTL6MqoVcN1KEJhjs2qlXNwv6x_vh/view?usp=sharing">[Most Recent]</a>
 <a href="https://arxiv.org/abs/2402.07743">[arXiv]</a>
 
 <h2 class="category"> Published Papers </h2>
