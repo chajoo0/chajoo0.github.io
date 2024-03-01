@@ -31,6 +31,7 @@ horizontal: false
 </p> 
 <a href="https://doi.org/10.1162/rest_a_01349">[Published version]</a>
 <a href="https://arxiv.org/abs/2108.09520">[arXiv]</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DFBV7K">[Replication Data]</a>
 
 <h2 class="category"> Working Papers </h2>
 <h5>Bounds for Standard Errors from Interdependent Data</h5>
