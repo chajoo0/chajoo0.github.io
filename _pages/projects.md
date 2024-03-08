@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [published, working papers, work in progress]
+display_categories: [published/accepted papers, working papers, work in progress]
 horizontal: false
 ---
 <div class="projects">
@@ -19,17 +19,17 @@ horizontal: false
 <a href="https://drive.google.com/file/d/1zDoOTL6MqoVcN1KEJhjs2qlXNwv6x_vh/view?usp=drive_link">[Most Recent]</a>
 <a href="https://arxiv.org/abs/2402.07743">[arXiv]</a>
 
-<h2 class="category"> Published Papers </h2>
+<h2 class="category"> Published/Accepted Papers </h2>
 <h5> Inference in High-dimensional Regression Models without exact or \(L^p\) sparsity</h5>
 - joint with <a href="https://sites.google.com/view/haroldchiang/">Harold D. Chaing</a> and <a href="https://sites.google.com/site/yuyasasaki/">Yuya Sasaki</a>
 <br>
-- <em>The Review of Economics and Statistics</em>, 2023
+- <em>The Review of Economics and Statistics</em>, Forthcoming
 <br>
 <span class="abstract-toggle" onclick="toggleAbstract(this)">[Abstract]</span> 
 <p class="abstract-content hidden">
   We propose a new inference method in high-dimensional regression models and high-dimensional IV regression models. The method is shown to be valid without requiring the exact sparsity or \(L^p\) sparsity conditions. Simulation studies demonstrate superior performance of this proposed method over those based on the LASSO or the random forest, especially under less sparse models. We illustrate an application to production analysis with a panel of Chilean firms.
 </p> 
-<a href="https://doi.org/10.1162/rest_a_01349">[Published version]</a>
+<a href="https://doi.org/10.1162/rest_a_01349">[Forthcoming]</a>
 <a href="https://arxiv.org/abs/2108.09520">[arXiv]</a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DFBV7K">[Replication Data]</a>
 
