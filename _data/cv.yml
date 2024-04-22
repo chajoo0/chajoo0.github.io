@@ -36,13 +36,19 @@
         - High-dimensional Models
         - Machine Learning Methods
         - Causal Inference
-    - title: Applied Econometrics
-      items:
-        - Health Economics
+    # - title: Applied Econometrics
+    #   items:
+    #     - 
 
 - title: Conferences and Seminars
   type: time_table
   contents:
+    - year: 2024
+      description:
+        - IAAE 2024 Annual Conference (Thessaloniki, Greece) (accepted)
+        - IAAE 2024 Annual Conference (Xiamen, China) (accepted)
+        - 18th International Symposium on Econometric Theory and Applications (SETA 2024) (accepted)
+        - New York Camp Econometrics XVIII (Poster session)
     - year: 2023
       description:
         - 38th CESG Annual Meeting, McMaster University (Poster session)
