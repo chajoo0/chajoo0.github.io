@@ -1,3 +1,5 @@
+2nd International Econometrics PhD Conference
+
 ---
 layout: page
 permalink: /teaching/
